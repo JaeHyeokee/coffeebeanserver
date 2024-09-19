@@ -39,6 +39,7 @@ CoffeeBean은 이용자는 상호 간 중고 물품 및 중고차 거래가 가�
 
 ### Communication
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 
 ## 👥 팀 소개
 | 이재혁(팀장) | 임예나 | 정준영 | 최민혁 | 최영재 | 최은정 |                                                   
