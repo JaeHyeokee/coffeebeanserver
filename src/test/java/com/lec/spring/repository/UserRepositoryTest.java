@@ -76,6 +76,7 @@ class UserRepositoryTest {
                     .regDate(LocalDateTime.now())
                     .reliability(500)
                     .role("ROLE_USER")
+                    .memberStatus(1)  // 회원탈퇴 테스트 전용
                     .build();
             users.add(user);
         }
