@@ -63,6 +63,7 @@ CoffeeBean은 이용자는 상호 간 중고 물품 및 중고차 거래가 가�
 
 ## 📊 ERD (Entity-Relationship Diagram)
 [![ERD.png](https://i.postimg.cc/QxcmpVKk/ERD.png)](https://postimg.cc/CzLb0hNz)
+<img width="100%" alt="ERD" src="https://i.postimg.cc/QxcmpVKk/ERD.png"/>
 
 프로젝트의 데이터베이스는 위와 같은 ERD를 기반으로 설계되었습니다. 
 
