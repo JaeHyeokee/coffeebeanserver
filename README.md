@@ -118,6 +118,11 @@ CoffeeBean은 이용자는 상호 간 중고 물품 및 중고차 거래가 가�
 | <img width="49%" alt="로그인" src="https://i.postimg.cc/wT1ZVRGZ/image.png"/> <img width="49%" alt="회원가입" src="https://i.postimg.cc/K8MXZ37B/image.png"/> |
 | 사용자는 회원 서비스를 이용하기 위해 이메일 회원 또는 소셜 회원을 선택해 가입하고 로그인 할 수 있습니다. |
 
+| 중고 물품 거래 |
+| :-------------------------------------------: |
+| <img width="49%" alt="중고 물품 거래" src="https://i.postimg.cc/KYf0FmWt/1.png"/> <img width="49%" alt="중고 물품 거래" src="https://i.postimg.cc/RZrsLsfJ/1-2.png"/> <img width="49%" alt="중고 물품 거래" src="https://i.postimg.cc/ht9CyLby/2-1.png"/> <img width="49%" alt="중고 물품 거래" src="https://i.postimg.cc/xCFgJtnC/2-2.png"/> <img width="49%" alt="중고 물품 거래" src="https://i.postimg.cc/bJv3wKXW/3.png"/> <img width="49%" alt="중고 물품 거래" src="https://i.postimg.cc/Zq81NkMq/image.png"/> |
+| 사용자는 판매자가 되어 본인의 물건을 판매할 수도 있고 구매자가 되어 원하는 매물을 구매할 수도 있습니다. 매물마다 정해진 카테고리를 통해서 검색할 수도 있고 헤더 상단의 검색바를 통한 키워드 검색을 통해서도 원하는 물품을 찾아볼 수 있습니다. 이 과정에서 사용자는 각 카테고리 또는 검색 결과에 대한 상품 리스트의 시세 정보를 차트로 볼 수 있으며, 구매자는 마음에 드는 물품을 찜하거나 QR코드를 통해 공유할 수 있습니다. 구매를 희망하는 상품에 대해서는 채팅을 통해 판매자와 상호작용할 수 있으며 거래가 완료되면 해당 거래에 대해 서로 후기도 보낼 수 있습니다. 이 후기를 통해 추후 사용자의 신뢰지수가 올라가거나 내려갈 수 있습니다. |
+
 | 중고차 거래 |
 | :-------------------------------------------: |
 | <img width="400" alt="중고차 거래" src=""/> |
